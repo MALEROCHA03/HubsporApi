@@ -36,12 +36,12 @@ It will ask for your Hubspot Api Key and will save it to the new .env config fil
 Please also notice that some objects require mandatory properties, that you can provide in the following way:
 
 ### Create Contact
-./bin/cli.js create [objectType] --email='test@test.com' --firstname='Brian' --lastname='Halligan'
+./bin/cli.js create [objectType] --email='test@test.com' --firstname='Aleja' --lastname='Ortega'
 
 
 ### Update existing object
 
-./bin/cli.js udpate [objectType] [objectId] --firstname='Ryan'
+./bin/cli.js update [objectType] [objectId] --firstname='Ryan'
 
 
 ### Delete existing object
