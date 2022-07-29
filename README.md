@@ -20,9 +20,6 @@ If .env config file was not configured manually there is a way to initialize the
 
 It will ask for your Hubspot Api Key and will save it to the new .env config file.
 
-3. Commands
-
-
 ### Show all commands
 
 ./bin/cli.js --help
