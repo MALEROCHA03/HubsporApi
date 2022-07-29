@@ -9,9 +9,12 @@
 1. Install dependencies
 
 # Console
+
+###Install NodeModules
+
 npm install
 
-2. Initialize
+### Initialize
 
 If .env config file was not configured manually there is a way to initialize the CLI and create .env file via:
 
