@@ -6,11 +6,8 @@
 
 ### Running
 
-1. Install dependencies
 
-# Console
-
-###Install NodeModules
+### Install NodeModules
 
 npm install
 
@@ -18,7 +15,7 @@ npm install
 
 If .env config file was not configured manually there is a way to initialize the CLI and create .env file via:
 
-## Console
+### Console
 ./bin/cli.js init
 
 It will ask for your Hubspot Api Key and will save it to the new .env config file.
